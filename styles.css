@@ -21,19 +21,19 @@ body {
   font-family: Outfit;
   text-align: center;
   display: inline-block;
-  margin: 1.5rem;
+  margin: 0 1.5rem 0.75rem;
 }
 
 .qr-text p {
   font-weight: 400;
-  font-size: 1.25rem;
+  font-size: 1rem;
   color: hsl(220, 15%, 55%);
 }
 
 .qr-text h1 {
   font-weight: 700;
   color: hsl(218, 44%, 22%);
-  font-size: 2rem;
+  font-size: 1.5rem;
 }
 
 .card-container {
@@ -44,7 +44,7 @@ body {
 }
 
 .content-container {
-  margin: 1.5rem;
+  margin: 1rem;
   max-width: 100%;
 }
 
