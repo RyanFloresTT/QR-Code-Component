@@ -19,8 +19,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://www.frontendmentor.io/solutions/qr-code-component-solution-bdBqFbEYx](https://www.frontendmentor.io/solutions/qr-code-component-solution-bdBqFbEYx)
+- Live Site URL: [https://qr-code-component-two-nu.vercel.app](https://qr-code-component-two-nu.vercel.app)
 
 ### Built with
 
@@ -29,7 +29,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### What I learned
 
-```css combinations!
+```css
+/* CSS Combinators! */
 .qr-text p {
   color: pink;
 }
